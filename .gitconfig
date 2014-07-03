@@ -1,0 +1,8 @@
+[user]
+	name = Emmanuel DEMEY
+	email = demey.emmanuel@gmail.com
+[core]
+	autocrlf = false
+	safecrlf = false
+[alias]
+	logtree = log --graph --oneline --decorate --all
